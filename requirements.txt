@@ -1,0 +1,6 @@
+langgraph==0.0.30
+langchain-core==0.1.35
+openai==1.30.5
+chromadb==0.4.22
+pydantic==2.7.1
+numpy==1.24.3
